@@ -7,7 +7,7 @@ html {
 body {
   margin: 0;
   min-height: 100vh;
-  background: whitesmoke;
+  background: #909cac;
   font-family: Lato, sans-serif;
   display: flex;
   justify-content: center;
@@ -17,13 +17,13 @@ body {
 .game-container {
   width: 530px;
   height: 600px;
-  background: white;
+  background: #cec3c8;
   box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.5);
   border-radius: 5px;
 }
 
 .header {
-  background: dodgerblue;
+  background: #efca66;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   height: 100px;
@@ -52,7 +52,7 @@ h2 {
 
 #player .far,
 #player .choice {
-  color: dodgerblue;
+  color: #909cac;
   cursor: pointer;
 }
 
